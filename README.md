@@ -1,5 +1,9 @@
 ### Hi there! 👋
 
+🛠️ Tools: Databases - PostgreSQL, MySQL, BigQuery, Excel
+Python: NumPy, Pandas
+Viz: Tableau, Looker/GDS
+
 My name is Kevin, thanks for stopping by. Just a quick few words:
 - 🔭 I’m currently working on a number of SQL, Python, & Tableau projects to round out my portfolio.
 - 🌱 I’m currently learning Python, R, SAS!
