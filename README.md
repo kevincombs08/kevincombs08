@@ -7,7 +7,7 @@ My name is Kevin, thanks for stopping by. Just a quick few words:
 
 Databases - PostgreSQL, MySQL, BigQuery, Excel
 
-Python: NumPy, Pandas
+Python: NumPy, Pandas, Jupyter Notebook
 
 Viz: Tableau, Looker/GDS
 
